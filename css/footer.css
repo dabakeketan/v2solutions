@@ -1,0 +1,7 @@
+footer {background-color: #fff; color: rgba(78, 68, 60, 0.5); border-top: 1px solid #ddd; font-family: Helvetica, arial; font-size: 0.75em; padding: 10px 0 0 0;}
+
+.footerNav {margin-bottom: 5px;}
+.footerNav li {border-right: 1px solid #CCCCCC; float: left; margin: 0 10px 0 0; padding: 0 10px 0 0;}
+.footerNav li:last-child {border-right: none; margin: 0; padding: 0;}
+.footerNav a {display: block; color: #777; font-weight: bold; color: rgba(78, 68, 60, 0.7)}
+.footerNav a:hover {color: rgba(78, 68, 60, 0.9);}
