@@ -98,6 +98,8 @@ nav {/* height: 45px; */ background: url("../images/header_border.png") no-repea
 .rightContentBottom .rightBottomUl li {line-height: 20px; background: url("../images/bullet.png") no-repeat scroll left 7px; color: #000000; margin-bottom: 10px; padding-left: 5%;}
     
 /* Responsive Design */
+
+/* Media Quesries */
 @media screen and (max-width: 1024px) {
     .wrapper {width: 95%; padding: 0 2%;}
 	header a[class="logo"] {width: 21.6796875%;}
